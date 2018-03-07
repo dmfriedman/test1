@@ -1,8 +1,7 @@
 {
-  "troubleshoot": [
+  "troubleshoot1": [
     {
       "id": 1,
-	  "statusid": 1,
       "status": "Started",
 	  "messagetype": "Play",
 	  "message": "message1.mp3",
@@ -10,10 +9,9 @@
 	  "nextpoll": 10
     }
   ],
-  "troubleshoot": [
+  "troubleshoot2": [
     {
       "id": 1,
-	  "statusid": 2,
       "status": "In Progress",
 	  "messagetype": "Play",
 	  "message": "message2.mp3",
@@ -21,10 +19,9 @@
 	  "nextpoll": 10	  
     }
   ],
-  "troubleshoot": [
+  "troubleshoot3": [
     {
       "id": 1,
-	  "statusid": 3,
       "status": "Update",
 	  "messagetype": "Prompt",
 	  "message": "prompt1.mp3",
@@ -50,10 +47,9 @@
 		}
     }
   ],
-  "troubleshoot": [
+  "troubleshoot4": [
     {
       "id": 1,
-	  "statusid": 4,
       "status": "Complete"
     }
   ],
