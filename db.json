@@ -8,7 +8,7 @@
 	  "message": "message1.mp3",
 	  "music": "musicfile1.mp3",
 	  "nextpoll": 10,
-	  "nexturl": "https://my-json-server.typicode.com/dmfriedman/test1/troubleshoot?id=1?statusid=2"
+	  "nexturl": "https://my-json-server.typicode.com/dmfriedman/test1/troubleshoot?id=1&statusid=2"
     },
     {
       "id": 1,
@@ -18,7 +18,7 @@
 	  "message": "message2.mp3",
 	  "music": "musicfile2.mp3",
 	  "nextpoll": 10,
-	  "nexturl": "https://my-json-server.typicode.com/dmfriedman/test1/troubleshoot?id=1?statusid=3"	  
+	  "nexturl": "https://my-json-server.typicode.com/dmfriedman/test1/troubleshoot?id=1&statusid=3"	  
     },
 	{
       "id": 1,
@@ -45,7 +45,7 @@
 			"message": "message3-3.mp3",
 			"nextpoll": 30
 		},
-	  "nexturl": "https://my-json-server.typicode.com/dmfriedman/test1/troubleshoot?id=1?statusid=4"
+	  "nexturl": "https://my-json-server.typicode.com/dmfriedman/test1/troubleshoot?id=1&statusid=4"
 		}
     },
     {
